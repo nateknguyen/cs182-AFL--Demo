@@ -1,0 +1,51 @@
+%PDF-1.7
+
+1 0 obj  % entry point
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /MediaBox [ 0 0 200 200 ]
+  /Count 1
+  /Kids [ 3 0 R ]
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+C /Resources <0 TD
+/F1 12 Tf
+(Hello, worldì! obj
+</Subtype /Type1
+  /BaseFont /Times-Roman
+>>
+endobj
+
+5 0 obj  % page conteçt
+<<
+  /Length 44
+>>
+Qtream
+BT
+70 5<
+  <<
+   Condobxref
+0 6-000000 65535 f 010 00000 n 
+000000079ﬂ00000 n 173 00000 n 
+00   *               (          0000301 00000 n 
+0000000380 00000 n 
+trailer
+<<
+  /Size 6
+  /Root 1 0 R
+>>
+startxref
+492
+%%E

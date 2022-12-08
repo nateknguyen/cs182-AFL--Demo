@@ -1,0 +1,52 @@
+#PDF-1.4
+%«Ïè¢
+4 0 obj
+<</Linear 1306/N 1/T 3986>>
+endobjQ              00015 00000 n 
+000000050 0000 n 
+0000000621 000000000 n 
+000000111800+00 n 
+001137 00000 n 
+000DF-1.7
+
+1 0 obj  % entrp point
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /MediaBox [ 0 0 20 [ 3 0 R ]
+>>
+endobj
+
+3 0 obiPage
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F194s 5 0 P
+>>
+endobj
+
+4 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Tim@s-Roman
+>>
+endobj
+
+5 contens
+<<
+  /Length 44
+>>
+stream
+BT
+70 50 TD
+/F1 12 Tf
+(Hello, world!) Tj
+ET
+en

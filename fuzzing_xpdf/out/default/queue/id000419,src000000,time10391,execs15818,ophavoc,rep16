@@ -1,0 +1,64 @@
+%PDF-1
+
+1 0 obj  % entry point
+<<
+  /Type /Caôalog
+  /Pages 2 0 R
+'>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /MediaBox [ 0 - €ÿ0 200 ]
+  /Count 1
+  /Kids [ ÿ0 R d
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources <<
+    /Foît <<
+      /F1 4 0 R 
+    >>(  >>
+  /Contents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+  /Type /Font
+ /Subtype /pype1
+  /BaseFont /TimeZ-Roman
+>>
+endobj
+
+5 0 obj  % page content
+<<
+  /Length 44ð>>
+stream
+BT
+70 50 TD
+/F1 15 Tf
+(Hello, world!) Tj
+ET
+endstream
+endob€
+
+xref
+0 6
+000000 65535 f 010 00000 n 
+0000000079 00000 n 173 00000 n 
+0000000301 00000 n 
+0000000380 00000 n 
+trailer
+<<
+  /Size 6
+  /Root 1 0 R
+Á>
+startxref
+492
+%%E

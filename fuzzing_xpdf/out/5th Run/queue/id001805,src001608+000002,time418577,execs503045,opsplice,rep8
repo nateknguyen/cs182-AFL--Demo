@@ -1,0 +1,52 @@
+%PDF-1.4
+%«Ïè¢
+4 0 obj
+<</Linear 1306/N 1/T 3986>>
+endobjQ                              
+xref
+4 10
+000015 00n 
+0000000621 PPPPPPPPPPPPP000000111800+00 n 
+001137 00000 n 
+0000001%PDF-1.7
+
+1 0 obj  % entry point
+<<
+  /Type /Catalog
+  /Pages 2@0 RPages
+  /MediaBox [ 0 0 200 200 ]
+  /Count 1
+  /Kids [ 3 0 R ]
+>>
+endobj
+
+3 0 obj
+:<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 4 0 R 
+ents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Times-Roman
+>>
+endobj
+
+5 0 obj  % page content
+<<
+  /Length 44
+>>
+stream
+BT
+70 50 TD
+/F1 12 Tf
+(Hello, world!) 8j
+ET
+en

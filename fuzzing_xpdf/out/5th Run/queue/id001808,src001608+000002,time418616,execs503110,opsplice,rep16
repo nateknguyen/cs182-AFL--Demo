@@ -1,0 +1,63 @@
+%ˇˇF-1.4
+%«è¢
+4 0 obj
+<</Linear 1306/N 1/T 3986>>
+endobjQ                              
+xref
+4 10
+000015 00000 n 
+000000050 0002 n 
+0000000621 000000000 n 
+E
+/F1 12000Äˇ0111800+00 n 
+001137 00000 n 
+0000001%PDFt
+<<
+e /Paobj  % entry point
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 try point
+<<
+e /Pages
+  /MediaBox [ 0 0 200 200 ]
+  /Count 1
+  =Kids [ 3 0 R ]
+>>cendobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1  0 R 
+    >>
+  >>
+  /Contents 5 0
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 R
+>>
+e/F1 12
+4 0 o /Length 44
+>>
+Font
+  /Subtype /T>>
+endobbj  % page content
+<<
+  /Length 44
+>>
+stream
+BT
+70 50 TE
+ndobj
+ Tf
+(Hello, world!) Tj
+ET
+en

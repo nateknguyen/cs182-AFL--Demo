@@ -1,0 +1,58 @@
+%PDF-1.7
+
+1 0 obj  % entry point
+<<
+  /T/Cat
+  /Pages 2 0 R
+N>
+endobj
+
+2 0 obj
+<<
+  /Type /Paçec
+  /MediaBox [ BT
+70 1 200 ]
+  /Count 1
+  /Kids [ % 
+
+3 0 obj
+<<
+  (Type€/Page
+endstream
+endobj
+
+xresources <<
+    /Font << R 
+    >>
+  >>
+  /Contentÿ 5 0 R
+V>
+end\4 0 o5 f 010 00000 n 
+00bj
+<<
+  /Type /eFont /Time-Roman
+>>ódndobj
+
+5 0 obj  % pagentent
+<<
+  /Length 44
+>>
+stream
+P 0 200 12 Tf
+(Hello, world!) Tj
+ET
+endstream)endobj
+
+xref
+0  010 00000 n 
+0000000079 00000 n 173 00000 n 
+0000000301 00000 n 
+0000000380 00000 n 
+trailer
+<<
+  /Size 6
+  /Root 1 0 R
+>>
+startxief
+49D
+%%E

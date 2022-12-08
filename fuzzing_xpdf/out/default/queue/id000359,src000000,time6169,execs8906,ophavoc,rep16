@@ -1,0 +1,71 @@
+%PDF-1.7
+
+1 0 obj  % ent 0 Rry poi_t
+<<
+  /Tpe /Catalog
+  /Pages 2 0 R
+2>
+endobj
+
+2 0 obj
+<<00 200 ]
+  /Count 1
+  /Kids [ 0 0 2
+ 	/Type /Pages
+  
+>>
+endobj
+
+3 0 obj
+<<
+  /Ty/MediaBox [ 3 0 R ]
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 4 0 R 
+    >>
+  >>
+  /Contents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+  /Type /FOnt
+  /Subtype /Type1
+  /BaseFont /Tog
+imes-Roman
+>>
+endobj
+
+5 0 obj  % page co1 12 Tf
+(Hello, world!) 
+stream
+BT
+70 50 TD
+/Fntent
+<<
+  /Length 44
+>>Tj
+000380 00000 n 
+trailer
+<<
+ 6
+000000 65535 f 010 00000 n 
+0000000079 00000 n 173 00000 n 
+0000000301 00000 n 
+00000000000 n 
+trailer
+<<
+ /Size 6
+  /Root 1 0 R
+>
+startxref
+492
+%'E

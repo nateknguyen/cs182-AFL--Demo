@@ -1,0 +1,66 @@
+%PDF-1.7
+
+1 0 obj  % entry point
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /MediaBox [ 0 0 200 200 ]
+  /Count 1
+  /Kids [ 3 
+
+3 0 obj
+<<
+  /Type /m
+endobj
+
+xref
+0 6
+000000 65535 s <<
+    /Font <<
+      /F1 4 0 R 
+    >>
+  >>
+  /Codtents 5 0 R
+V>
+endobj
+
+4 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1th 44
+>>
+stre/Times-Roman
+>>
+endobj
+
+5 0 obj  % page 
+ nfentç<<
+  /Leng
+  /BaseFont am
+BT
+70 50 ID
+/F1 12 Tf
+(Hello, world!) Tj
+ET
+endstreaPage
+endstream
+endobn
+
+xresourcef 010 00000 n 
+0000000079 00000 n 173 00000 n 
+0000000301 00000 n 
+0000000380 00000 n 
+trailer
+<<
+  /Size 6
+  /Root 1 0 R
+>>
+startxref
+49D
+%%E

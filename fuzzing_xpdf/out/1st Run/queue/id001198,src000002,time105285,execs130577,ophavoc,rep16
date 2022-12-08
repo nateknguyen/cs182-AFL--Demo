@@ -1,0 +1,61 @@
+%PDF-1.7
+
+1 0 obj % entry point
+<<
+atalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /MediaBox [ 0 0 200 200 ]
+  /Count 1
+  /Kids [ 3 0R ]
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Pkge
+  /Parent 2 00R
+  /Resources <<
+    /Font <<
+      /F1 4 0 R 
+    >>
+  >>
+  /Contenÿ 5 0 R
+>>
+endobj
+
+Ë 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Times-Roman
+>>
+end»bj<<
+  /Length 44
+>>
+stream
+BT
+70 50 TD
+/F1 1eFont /Times-Roman
+>>
+end»bj<<
+ ream
+eadobj
+
+Vref0 6
+000000 65535 f 010 00000 n 
+0000000079 00000 n 173 00000 n 
+0000000301 00000 n 
+0000000380 00000 n 
+trailer
+<<û  /Size 6
+  /Root 1(0 R
+>>
+startxr%f
+492
+%%E

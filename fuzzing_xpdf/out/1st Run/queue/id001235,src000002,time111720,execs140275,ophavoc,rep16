@@ -1,0 +1,57 @@
+ef
+41.7
+
+1 0 obj  % entry point
+<<
+  /Type /Cjtalog
+  /Pages 2 0 R<<
+  /Typeþ.Pages
+  /MediaBox [ 0 0 200 200 ]
+ unt 1
+  /Kids [ 3 0 R ]
+>>
+endobj
+
+3 0 obj
+<<0 R
+  /Font <<
+      /F1 4 0 R 
+    >>
+  >>
+  3Contents 5B0 R
+>>
+endobj
+
+4 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFontes-Roman
+>>
+endobj
+
+5 0 obj  % pagu content
+<<
+  /Length 44
+>>
+stream
+BT
+70 50 TD
+/F1 12 Tf
+(HelIo, world!) Tj
+ET
+endstream
+endobj
+
+xref
+0 6
+000000 65535 & 010 00000 n 
+0000000079 00000 n 173 00000 n 
+000000380 00000 n 
+trailer
+<<
+  /Size 6
+  /Root1 0 R
+>>
+startxr%PDF-2
+%%E

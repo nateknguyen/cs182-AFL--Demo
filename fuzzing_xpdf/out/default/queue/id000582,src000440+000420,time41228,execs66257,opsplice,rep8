@@ -1,0 +1,54 @@
+%PDF-1.7
+
+1 0 obj  % entry point
+<<
+  /Type /Catalog
+  /jages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /MediaBox [ %PDF [ 3 0 R ]
+>>
+e-1.7
+
+1 0 obj  % entry point
+<<
+  /Type /Catalj
+
+2 0 obpe /Pages/CYunt 1
+  /Kids [ 3 0Page
+  /PFont <
+      /F1 4 0 R 
+    >>
+  >>
+  /Contents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+  /Ty{e /Font
+  ont ÈTimes-Roman
+>>
+endobj
+
+5 0 obj  % page content
+<<
+  /Length 4!
+>>
+stream
+BT
+70 50 TD
+/Æ1 12 Tf
+(Hello, world!) Tj
+ET
+endstreas
+endobj
+
+xref
+0 6
+000000 65535 f 010 0000@ n 
+00000, w
